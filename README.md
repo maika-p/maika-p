@@ -3,7 +3,7 @@
 - 🌱  I’m currently learning Angular, TypeScript, UI/UX, Robot Framework
 - 📫  How to reach me TBD
 
-- In my free time I like to work out with calisthenics rings! Trying to make personal progress in both physical and mental health. 
+- I like to work out with calisthenics rings! and (trying) to do yoga and meditate... Trying to make personal progress in both physical and mental health. 
 - Currently developing Solina, a web app to get more in tune with your emotions. In these times, alexithymia is way too common and I would like to make a difference.
 
 <!---
