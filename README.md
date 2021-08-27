@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Miika! I'm currently located in Finland
+- 👋  Hi, I’m Miika! I'm currently located in Central Finland and working at a tech startup.
 - 👀  I’m interested in web development, UI/UX design, AWS, music, gaming, calisthenics, nutrition, anime and manga, fashion etc.! 
 - 🌱  I’m currently learning Angular, TypeScript, UI/UX, Robot Framework
 - 📫  How to reach me TBD
