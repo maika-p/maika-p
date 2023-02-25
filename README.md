@@ -1,3 +1,4 @@
 👋  
-- Hi, I’m Miika! I'm currently located in Central Finland and working at a tech company
-- I’m interested in web development, UI/UX design and accessibility, AWS, music, gaming, calisthenics, nutrition, shows & film, fashion etc.! 
+- Hi, I’m Miika! I'm currently located in Central Finland and working at a company called Skillwell as a software developer
+- Interested in newest developments in the web space
+- Currently trying out Analog for Angular with file based routing and standalone components
